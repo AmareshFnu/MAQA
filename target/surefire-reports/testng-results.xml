@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="111161" started-at="2014-06-03T02:59:27Z" finished-at="2014-06-03T03:01:18Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="111161" started-at="2014-06-03T02:59:27Z" finished-at="2014-06-03T03:01:18Z">
+      <class name="com.ma.qa.appium.sessionTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ma.qa.appium.sessionTest@fb52041]" name="setUp" is-config="true" duration-ms="92912" started-at="2014-06-03T10:59:27Z" finished-at="2014-06-03T11:00:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="f()[pri:0, instance:com.ma.qa.appium.sessionTest@fb52041]" name="f" duration-ms="16879" started-at="2014-06-03T11:00:59Z" finished-at="2014-06-03T11:01:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.ma.qa.appium.sessionTest@fb52041]" name="afterMethod" is-config="true" duration-ms="1312" started-at="2014-06-03T11:01:16Z" finished-at="2014-06-03T11:01:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.ma.qa.appium.sessionTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
